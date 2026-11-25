@@ -1,0 +1,27 @@
+{
+  "most_volatile_city": "delhi",
+  "volatility_pstdev": {
+    "ahmedabad": 13.29,
+    "surat": 9.85,
+    "vadodara": 10.21,
+    "rajkot": 8.95,
+    "mumbai": 11.22,
+    "delhi": 36.42,
+    "pune": 8.4,
+    "bengaluru": 7.06,
+    "chennai": 7.45,
+    "kolkata": 22.35
+  },
+  "mean_of_city_averages": 64.95,
+  "cities_below_mean_avg": [
+    "ahmedabad",
+    "surat",
+    "vadodara",
+    "rajkot",
+    "mumbai",
+    "pune",
+    "bengaluru",
+    "chennai"
+  ],
+  "readings_above_60": 85
+}

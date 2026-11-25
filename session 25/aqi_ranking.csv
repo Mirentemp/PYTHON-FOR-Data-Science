@@ -1,0 +1,11 @@
+rank,city,avg_pm25,band
+1,delhi,170.18,Very poor
+2,kolkata,101.13,Poor
+3,ahmedabad,64.83,Moderate
+4,mumbai,54.87,Satisfactory
+5,vadodara,53.6,Satisfactory
+6,surat,48.48,Satisfactory
+7,rajkot,45.28,Satisfactory
+8,pune,40.02,Satisfactory
+9,chennai,37.68,Satisfactory
+10,bengaluru,33.42,Satisfactory

@@ -1,0 +1,2 @@
+2026-11-25 18:39:00 | hourly='not_a_variable' -> HTTP 400 Bad Request
+2026-11-25 18:39:02 | unreachable host 'https://unreachable-host.invalid/v1/air-quality' -> RequestException (NameResolutionError)
