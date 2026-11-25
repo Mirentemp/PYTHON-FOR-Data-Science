@@ -1,0 +1,17 @@
+{
+  "Gandhinagar": {
+    "date": "2026-11-25",
+    "temp_max_c": 32.2,
+    "rain_mm": 0.0
+  },
+  "Anand": {
+    "date": "2026-11-25",
+    "temp_max_c": 32.6,
+    "rain_mm": 0.0
+  },
+  "Mehsana": {
+    "date": "2026-11-25",
+    "temp_max_c": 32.0,
+    "rain_mm": 0.0
+  }
+}
