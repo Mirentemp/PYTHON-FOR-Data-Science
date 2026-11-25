@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-03-14 23:10",
+    "distance_km": 6.2,
+    "fare": 109
+  },
+  {
+    "timestamp": "2026-03-15 13:00",
+    "distance_km": 1.2,
+    "fare": 25
+  },
+  {
+    "timestamp": "2026-03-15 03:30",
+    "distance_km": 4.0,
+    "fare": 73
+  },
+  {
+    "timestamp": "2026-03-15 18:45",
+    "distance_km": 8.5,
+    "fare": 116
+  },
+  {
+    "timestamp": "2026-03-16 22:15",
+    "distance_km": 3.5,
+    "fare": 64
+  }
+]
