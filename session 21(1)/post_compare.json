@@ -1,0 +1,18 @@
+{
+  "with_data": {
+    "form": {
+      "student": "miren",
+      "course": "data_science"
+    },
+    "json": null,
+    "content_type": "application/x-www-form-urlencoded"
+  },
+  "with_json": {
+    "form": {},
+    "json": {
+      "student": "miren",
+      "course": "data_science"
+    },
+    "content_type": "application/json"
+  }
+}
