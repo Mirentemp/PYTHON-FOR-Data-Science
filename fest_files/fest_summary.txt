@@ -1,0 +1,3 @@
+total collection: 2600
+registrations per department: {'CSE': 3, 'Mech': 3, 'Civil': 3, 'EC': 3}
+prepared by miren

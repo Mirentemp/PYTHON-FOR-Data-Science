@@ -1,0 +1,13 @@
+reg_id,name,department,ticket_type,amount_inr
+FEST001,aarav,CSE,Day,150
+FEST002,diya,Mech,Day,150
+FEST003,kabir,Civil,Pass,350
+FEST004,ananya,EC,Day,150
+FEST005,rohan,CSE,Day,150
+FEST006,meera,Mech,Pass,350
+FEST007,dev,Civil,Day,150
+FEST008,kavya,EC,Day,150
+FEST009,arjun,CSE,Pass,350
+FEST010,tara,Mech,Day,150
+FEST011,yash,Civil,Day,150
+FEST012,riya,EC,Pass,350

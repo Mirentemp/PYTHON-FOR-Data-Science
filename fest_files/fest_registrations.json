@@ -1,0 +1,86 @@
+[
+  {
+    "reg_id": "FEST001",
+    "name": "aarav",
+    "department": "CSE",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST002",
+    "name": "diya",
+    "department": "Mech",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST003",
+    "name": "kabir",
+    "department": "Civil",
+    "ticket_type": "Pass",
+    "amount_inr": 350
+  },
+  {
+    "reg_id": "FEST004",
+    "name": "ananya",
+    "department": "EC",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST005",
+    "name": "rohan",
+    "department": "CSE",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST006",
+    "name": "meera",
+    "department": "Mech",
+    "ticket_type": "Pass",
+    "amount_inr": 350
+  },
+  {
+    "reg_id": "FEST007",
+    "name": "dev",
+    "department": "Civil",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST008",
+    "name": "kavya",
+    "department": "EC",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST009",
+    "name": "arjun",
+    "department": "CSE",
+    "ticket_type": "Pass",
+    "amount_inr": 350
+  },
+  {
+    "reg_id": "FEST010",
+    "name": "tara",
+    "department": "Mech",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST011",
+    "name": "yash",
+    "department": "Civil",
+    "ticket_type": "Day",
+    "amount_inr": 150
+  },
+  {
+    "reg_id": "FEST012",
+    "name": "riya",
+    "department": "EC",
+    "ticket_type": "Pass",
+    "amount_inr": 350
+  }
+]
