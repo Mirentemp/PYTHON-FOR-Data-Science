@@ -1,0 +1,8 @@
+email
+email
+mobile
+invalid
+invalid
+invalid
+invalid
+email
