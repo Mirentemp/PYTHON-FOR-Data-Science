@@ -1,0 +1,27 @@
+[
+  {
+    "call": "api_key_header",
+    "status": 200,
+    "result": "x-api-key=key_98765"
+  },
+  {
+    "call": "api_key_query",
+    "status": 200,
+    "result": "api_key=key_98765"
+  },
+  {
+    "call": "bearer_valid",
+    "status": 200,
+    "result": "authenticated=True"
+  },
+  {
+    "call": "basic_auth",
+    "status": 200,
+    "result": "authenticated=True, user=student"
+  },
+  {
+    "call": "bearer_missing",
+    "status": 401,
+    "result": "unauthorized without bearer header"
+  }
+]
