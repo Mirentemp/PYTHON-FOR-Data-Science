@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://jsonplaceholder.typicode.com/posts?userId=2",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "item_count": 10
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "item_count": 1
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/todos/5",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "item_count": 1
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/posts/9999",
+    "status": 404,
+    "content_type": "application/json; charset=utf-8",
+    "item_count": 0
+  }
+]
